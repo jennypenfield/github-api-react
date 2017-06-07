@@ -1,0 +1,56 @@
+body {
+  font-family: sans-serif;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+}
+
+.user-name {
+  background-color: #000;
+  color: #fff;
+  font-size: 40px;
+  height: 80px;
+  padding-top: 35px;
+}
+
+.github-main-img {
+  height: 60px;
+}
+
+.github-profile-photo {
+  border-radius: 50px;
+  height: 200px;
+}
+
+.github-user-not-found-img {
+  height: 300px;
+}
+
+h3 {
+  margin-top: 50px;
+}
+
+.profile-links a {
+  color: blue;
+  text-decoration: none;
+}
+
+.profile-links a:hover {
+  color: gray;
+  cursor: auto;
+}
+
+.search-user-name {
+  font-size: 12px;
+  height: 30px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  width: 250px;
+}
+
+.btn-search {
+  background-color: #000;
+  color: #fff;
+  font-size: 14px;
+  border-radius: 5px;
+}
